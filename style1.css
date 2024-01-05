@@ -1,0 +1,12 @@
+body {
+	background-color: no idea
+	font-family: 'red hat mono';
+	color: block;
+}
+
+@font-face {
+	font-family: "red hat mono";
+	src: url('RedHatMono[wght]') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
